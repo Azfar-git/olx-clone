@@ -102,7 +102,6 @@ function footer (){
     </p>
   </div>
 </footer>
-
         </>
     )
 }
