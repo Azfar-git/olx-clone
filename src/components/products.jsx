@@ -59,7 +59,6 @@ return(
   </div>
 </div>
 
-
 <div className="outsider">
   <h2 className="product_heading">Cars</h2>
 </div>
